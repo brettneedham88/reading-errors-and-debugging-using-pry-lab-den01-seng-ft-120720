@@ -13,3 +13,5 @@ end
 def engage(star_date)
   "Captain's Log, star date #{star_date}."
 end
+
+engage(november)
