@@ -7,7 +7,6 @@ end
 
 def state_log(date)
   puts #{date}
-  date = generate_star_date
 end
 
 def engage(star_date)
